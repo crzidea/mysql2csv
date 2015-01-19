@@ -1,0 +1,13 @@
+{
+  "host": "127.0.0.1",
+  "port": "3306",
+  "user": "root",
+  "password": "",
+  "database": "mysql",
+  "table": "help_topic",
+  "fields": ["name", "description", "example", "url"],
+  "key": "help_topic_id",
+  "condition": "help_category_id = 32 AND `name` != ''",
+  "limit": 10,
+  "file": "/tmp/help-topic-32.csv"
+}

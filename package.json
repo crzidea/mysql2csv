@@ -1,0 +1,20 @@
+{
+  "name": "mysql2csv",
+  "version": "1.0.0",
+  "description": "Export table to .csv using conditions and key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mysql2csv": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "comma-separated-values": "^3.6.1",
+    "commander": "^2.6.0",
+    "mysql": "^2.5.4"
+  }
+}
