@@ -1,6 +1,6 @@
 {
   "name": "mysql2csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Export table to .csv using conditions and key",
   "main": "index.js",
   "scripts": {
