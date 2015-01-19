@@ -1,3 +1,3 @@
 node_modules/
-*.bak
+test.json
 npm-debug.log
