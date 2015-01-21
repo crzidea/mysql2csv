@@ -1,7 +1,8 @@
 # mysql2csv
-Export table to .csv using conditions and key.
 
 [![NPM version](https://badge.fury.io/js/mysql2csv.png)](http://badge.fury.io/js/mysql2csv)
+
+Export table to .csv using conditions and key.
 
 ## Install
 
